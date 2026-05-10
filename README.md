@@ -58,4 +58,4 @@ POST / Predict
 
 👨‍💻 Author
 
-Kishore P
+Kishore P | Full Stack Developer 
