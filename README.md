@@ -1,5 +1,5 @@
 
-🌾 Kisan Mitra AI – Smart Agriculture Advisory Platform
+🌾 **Kisan Mitra AI** – Smart Agriculture Advisory Platform
 
 🚀 Overview
 
