@@ -87,7 +87,7 @@ Every page and section transition in Evasion is a **unique, one-of-a-kind animat
 - **Shader-based effects** — distortion, glow, noise, and chromatic aberration via GLSL
 
 ### 🖼️ Visual Design
-- **Dark luxury aesthetic** — deep blacks, neon accents, premium feel
+- Dark luxury aesthetic — deep blacks, neon accents, premium feel
 - **3D product visualization** — interactive product model with ambient rotation
 - **Floating particle atmosphere** — persistent ambient particles throughout experience
 - **Dynamic lighting** — light sources shift based on scroll position and cursor
