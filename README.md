@@ -1,6 +1,6 @@
 # ◈ Evasion
 
-> **Premium Animated Product Landing Page**
+> Premium Animated Product Landing Page
 
 [![Built With](https://img.shields.io/badge/built%20with-GSAP%20%2B%20Three.js-8B5CF6?style=flat)]()
 [![Type](https://img.shields.io/badge/project-Freelance%20Client%20Work-F59E0B?style=flat)]()
@@ -228,7 +228,7 @@ RESTRAINT    →  Premium feel comes from what you don't show, not what you do.
 INTENT       →  Every animation earns its place. Nothing moves without reason.
 ```
 
-**Color system:**
+Color system:
 ```
 Background   →  #050508  (near-black with cool undertone)
 Primary      →  #E0E0FF  (off-white with blue tint)
