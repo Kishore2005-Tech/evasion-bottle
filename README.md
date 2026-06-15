@@ -24,7 +24,7 @@
 
 From the first viewport to the final CTA, **nothing is static**. Every transition between pages and sections is a deliberate choreography of motion — built to make the product feel exclusive, powerful, and unforgettable.
 
-> 💼 *Freelance project — designed, animated, and developed solo from brief to delivery.*
+> 💼 **Freelance project — designed, animated, and developed solo from brief to delivery.**
 
 ---
 
@@ -79,9 +79,9 @@ Every page and section transition in Evasion is a **unique, one-of-a-kind animat
 ## ✨ Feature Highlights
 
 ### 🎬 Animation System
-- *Scroll-driven scene control* — scroll position directly drives animation progress
-- *Custom transition timelines* — each section has its own named GSAP timeline
-- *Bidirectional animations* — scroll back and every animation reverses perfectly
+- **Scroll-driven scene control** — scroll position directly drives animation progress
+- **Custom transition timelines** — each section has its own named GSAP timeline
+- **Bidirectional animations** — scroll back and every animation reverses perfectly
 - **Cursor-reactive environment** — 3D elements tilt and glow in response to mouse position
 - **Kinetic typography** — text doesn't appear, it *performs*
 - **Shader-based effects** — distortion, glow, noise, and chromatic aberration via GLSL
