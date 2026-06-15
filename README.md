@@ -24,7 +24,7 @@
 
 From the first viewport to the final CTA, **nothing is static**. Every transition between pages and sections is a deliberate choreography of motion — built to make the product feel exclusive, powerful, and unforgettable.
 
-> 💼 **Freelance project — designed, animated, and developed solo from brief to delivery.**
+> 💼 *Freelance project — designed, animated, and developed solo from brief to delivery.*
 
 ---
 
